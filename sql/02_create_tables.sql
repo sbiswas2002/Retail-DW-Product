@@ -1,4 +1,4 @@
-USE retail_dw;
+USE retail_dw; /* adding dimension staging and fact table  */ 
 
 -- Dimension tables (InfoObjects equivalent)
 CREATE TABLE IF NOT EXISTS dim_customer (

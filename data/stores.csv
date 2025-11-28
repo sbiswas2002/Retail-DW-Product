@@ -1,0 +1,11 @@
+store_id,store_name,store_city,store_state,store_region,store_type
+11,Metro Mall - Whitefield,Bengaluru,Karnataka,South,Physical
+12,City Center - Andheri,Mumbai,Maharashtra,West,Physical
+13,Online Store - India,Online,NA,National,Online
+14,South City Mall,Kolkata,West Bengal,East,Physical
+15,Express Store - Gurgaon,Gurgaon,Haryana,North,Physical
+16,Phoenix MarketCity,Chennai,Tamil Nadu,South,Physical
+17,Forum Mall - Koramangala,Bengaluru,Karnataka,South,Physical
+18,High Street Mall,Pune,Maharashtra,West,Physical
+19,Select Citywalk,Delhi,Delhi,North,Physical
+20,Global Online Marketplace,Online,NA,Global,Online

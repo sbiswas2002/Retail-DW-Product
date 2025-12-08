@@ -102,7 +102,7 @@ Retail-DW-Product/
 
 📌 *Built on top of the semantic layer (`vw_sales_enriched`).*
 
-![Dashboard Preview](docs/dashboard_preview.png)
+![Dashboard Preview](docs/dashboard_preview.png.png)
 
 ---
 

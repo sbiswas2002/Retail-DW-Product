@@ -76,4 +76,50 @@ cd Retail-DW-Product
 SET GLOBAL local_infile = 1;
 SET SESSION local_infile = 1;
 4. Run all SQL scripts
-5. Inside MySQL:
+    Inside MySQL:
+source sql/01_create_schema.sql;
+source sql/02_create_tables.sql;
+source sql/03_load_data.sql;
+source sql/04_create_views.sql;
+source sql/05_kpis.sql;
+📊 Sample KPIs Included
+	•	Total Revenue
+	•	Net Revenue by Month
+	•	Top 10 Products
+	•	Revenue by Customer Segment
+	•	Revenue by Region
+	•	Order Volume Over Time
+
+These can be found in 05_kpis.sql.
+
+⸻
+
+
+
+
+🎯 Purpose of the Project
+
+This project is built to demonstrate:
+	•	Strong SQL & ETL skills
+	•	Ability to design a dimensional data warehouse
+	•	Ability to work with realistic datasets
+	•	Experience building end-to-end analytical pipelines
+	•	Knowledge of BI-style reporting and KPI generation
+
+Perfect for showcasing in interviews for:
+	•	Data Engineer
+	•	BI Developer
+	•	Analytics Engineer
+	•	SQL Developer
+
+⸻
+
+🏷 Tags / Keywords
+
+#DataEngineering #SQL #MySQL #ETL #DataWarehouse #AnalyticsEngineering #RetailAnalytics #BI #DataModeling #SQLProjects
+
+⸻
+
+📬 Contact
+
+If you like this project or have suggestions, feel free to connect or raise an issue.
